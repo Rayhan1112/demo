@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "396558855754",
+    "project_id": "flutterfirst-bdcaf",
+    "storage_bucket": "flutterfirst-bdcaf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396558855754:android:ffb3502ddcda48156bc0b3",
+        "android_client_info": {
+          "package_name": "com.example.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "396558855754-lisf73jtp1v11r8f861ndeut2amt75bd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAauJ1lsHuZpouzF_5MPnUHjxQWoZ2ZTug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "396558855754-lisf73jtp1v11r8f861ndeut2amt75bd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
